@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Farhanayousuf</h1>
-<h3 align="center">I Am asocial media marketer . Graphic designer</h3>
+<h3 align="center">I Am asocial media marketer *student of GIAIC Agentic AI* </h3>
 
-    <img align="right"alt="coding"width="400"src="https://images.app.goo.gl/bf41LBmUyw7XmYqG9">
+    <img align="right" alt="coding" width="400"src="https://images.app.goo.gl/bf41LBmUyw7XmYqG9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanayousuf248&label=Profile%20views&color=0e75b6&style=flat" alt="farhanayousuf248" /> </p>
 
