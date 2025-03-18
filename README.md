@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Farhanayousuf</h1>
 <h3 align="center">I Am a "social media marketer" and *student of GIAIC Agentic AI* </h3>
 
-    <img align="right" alt="coding" width="400"src="https://images.app.goo.gl/bf41LBmUyw7XmYqG9">
+    <img align="right" alt="coding" width="400"src=" https://www.google.com/collections/s/list/W8J3_YauRMWH-PEdeQYUeg/Gzjk79ix43Y">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanayousuf248&label=Profile%20views&color=0e75b6&style=flat" alt="farhanayousuf248" /> </p>
 
