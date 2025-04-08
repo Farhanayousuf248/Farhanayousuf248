@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanayousuf248&label=Profile%20views&color=0e75b6&style=flat" alt="farhanayousuf248" /> </p>
 
-- 🔭 I’m currently working on ##📚 [Python programming language](https://colab.research.google.com/drive/1Nlb-0UiE3XiBCiVfRH6hZwYKQOM5N_BY?authuser=0#scrollTo=ttXHopNQky-u)
+- 🔭 I’m currently working on 📚 [Python programming language](https://colab.research.google.com/drive/1Nlb-0UiE3XiBCiVfRH6hZwYKQOM5N_BY?authuser=0#scrollTo=ttXHopNQky-u)
 
 - 🌱 I’m currently learning **GIAIC Agentic AI**
 
