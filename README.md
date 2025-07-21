@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhanayousuf</h1>
+<h1 align="center">Hi 👋, I'm Farhana yousuf</h1>
 <h3 align="center">I Am a *student of GIAIC Agentic AI* </h3>
  
 <img align="right" alt="coding" width="400"src=" https://www.google.com/collections/s/list/W8J3_YauRMWH-PEdeQYUeg/Gzjk79ix43Y">
