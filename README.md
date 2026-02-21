@@ -1,35 +1,79 @@
-<h1 align="center">Hi 👋, I'm Farhana yousuf</h1>
-<h3 align="center">I Am a *student of GIAIC Agentic AI* </h3>
- 
-<img align="right" alt="coding" width="400"src=" https://www.google.com/collections/s/list/W8J3_YauRMWH-PEdeQYUeg/Gzjk79ix43Y">
+<h1 align="center">Hi 👋, I'm Farhana Yousuf</h1>
+<h3 align="center">Agentic AI Student | GIAIC | Turning Ideas into Intelligent Systems 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanayousuf248&label=Profile%20views&color=0e75b6&style=flat" alt="farhanayousuf248" /> </p>
-
-- 🔭 I’m currently working on 📚 [Python programming language](https://colab.research.google.com/drive/1Nlb-0UiE3XiBCiVfRH6hZwYKQOM5N_BY?authuser=0#scrollTo=ttXHopNQky-u)
-
-- 🌱 I’m currently learning **GIAIC Agentic AI**
-
-- 👩‍💻 All of my projects are available at [https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=farhana-yousuf-3067bb342](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=farhana-yousuf-3067bb342)
-
-- 📫 How to reach me **farhanayousuf85@gmail.com**
-
-- ⚡ Fun fact **I am funny**😊
- 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhanayousuf" target="blank"><img align="center" ##src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhanayousuf" height="30" width="40" /></a>
-<a href="https://fb.com/farhana yousuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhana yousuf" height="30" width="40" /></a>
-<a href="https://discord.gg/Farhana yousuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Farhana yousuf" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanayousuf248&label=Profile%20views&color=ff69b4&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Yeh wali image (laptop pe girl coding) -->
+<img align="right" alt="Girl coding on laptop" width="400" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanayousuf248&show_icons=true&locale=en&layout=compact" alt="farhanayousuf248" /></p>
+<p align="left"> 
+  <strong>A girl who loves coding, AI, and making things happen from her laptop 💻✨</strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanayousuf248&show_icons=true&locale=en" alt="farhanayousuf248" /></p>   
+- 🔭 Currently building **AI-Employee-Vault** – Hackathon-0 Bronze Tier project  
+  → GitHub: https://github.com/Farhanayousuf248/AI-Employee-Vault
+- 🌱 Learning **Agentic AI, Autonomous Workflows & Prompt Engineering** at GIAIC
+- 👩‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Farhanayousuf248?tab=repositories)
+- 📫 Reach me: **farhanayousuf85@gmail.com**
+- ⚡ Fun fact: **I believe every girl can code the future — one line at a time** 😊💕
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/farhana-yousuf-536381374/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61565629713822" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@FarhanaYousufOfficial" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:farhanayousuf85@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+### 💻 Tech Stack
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Obsidian_software_logo.svg" alt="obsidian" width="50" height="50"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/claude-ai.svg" alt="claude" width="50" height="50"/>
+  </a>
+</p>
+
+### 🔥 Featured Project
+<p align="center">
+  <a href="https://github.com/Farhanayousuf248/AI-Employee-Vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanayousuf248&repo=AI-Employee-Vault&theme=dracula" alt="AI-Employee-Vault" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanayousuf248&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanayousuf248&theme=dracula&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanayousuf248&layout=compact&theme=dracula&hide_border=true" alt="top-langs" />
+</p>
+
+---
+
+Made with ❤️ in Karachi | Powered by Agentic AI & Girl Power 💪✨
