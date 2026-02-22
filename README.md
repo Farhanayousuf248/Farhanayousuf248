@@ -6,7 +6,7 @@
 </p>
 
 <!-- Yeh wali image (laptop pe girl coding) -->
-<img align="right" alt="Girl coding on laptop" width="400" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80">
+<img align="right" alt="Girl coding on laptop" width="400" src="https://scontent.fkhi28-1.fna.fbcdn.net/v/t39.30808-6/639231714_122187660602520990_600707781882897300_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeEeQGccr0OMP0r1EKQdPiA4MlVjRznpkbEyVWNHOemRsRUoYjeGCics-rjdMqhO0hJDawW_99xHxE8eaxAVGUOF&_nc_ohc=4EoDg0Ka7jsQ7kNvwFdXcaJ&_nc_oc=AdmSxtL344axF81VfVa-9f916bgXLUyh3LQIh4how16ClcTH5gCYXWqtyIUmXENJNP0&_nc_zt=23&_nc_ht=scontent.fkhi28-1.fna&_nc_gid=GBBf1GlDlXEvvC9ae2uIfw&oh=00_AfuG5l4NamnK-2drkxo0mKU4zXHIczHktW8RS1DxrwNbBg&oe=69A01B0E">
 
 <p align="left"> 
   <strong>A girl who loves coding, AI, and making things happen from her laptop 💻✨</strong>
