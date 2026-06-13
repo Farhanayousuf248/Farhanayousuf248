@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farhanayousuf248/Farhanayousuf248/main/Gemini_Generated_Image_j5u4k7j5u4k7j5u4.jpg" alt="Developer Banner" width="100%" style="border-radius: 20px;" />
-</p>
+  
 
 ### 🛠️ Technical Arsenal & Core Stack
 
